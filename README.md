@@ -2,7 +2,8 @@
 
 ## OVERVIEW:
 
-This is a simple implementation of File Systems. This was developed using a 100 MB HardDisk.  This uses a block structure with direct and indirect implementations for memory locations (With top of the memory being the Meta Data). This handles external fragmentation by having scope for non-continuous allocation of blocks and internal fragmentation with small block size (Block size can be initialized by user.)
+This is a simple implementation of File Systems. This was developed using a 100 MB HardDisk.  This uses a block structure with direct and indirect implementations for memory locations (With top of the memory being the Meta Data). This handles external fragmentation by having scope for non-continuous allocation of blocks and internal fragmentation with small block size (Block size can be initialized by user.)   
+
 Hard Disk Link : https://drive.google.com/open?id=16ZStufxgXD7CS2p8GxvR_GzHqrjZ2AVY
 
 ## COMMANDS:
